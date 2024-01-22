@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rahul-chhabadiya
 - 👀 I’m interested in leaning code
 - 🌱 I’m currently learning Web & Data Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chhabadiyarahul97@gmail.com
 
 <!---
